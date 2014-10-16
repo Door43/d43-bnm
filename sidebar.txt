@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bnm:home|Door43 (bnm)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bnm|d43-bnm repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bnm/archive/master.zip|d43-bnm.zip]]
+
+**Recent Changes**
+{{changes>ns = bnm}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bnm|Ethnologue data]]
+
